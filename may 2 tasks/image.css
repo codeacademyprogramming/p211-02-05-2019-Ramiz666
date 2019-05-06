@@ -1,0 +1,75 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+.header {
+text-align: center;
+margin-top: 80px;
+
+}
+.header p {
+color: rgb(117, 117, 117)
+
+
+}
+.parent{
+display: flex;
+justify-content: space-around;
+margin-top: 70px;
+
+
+
+
+}
+.end h3 span {
+    font-size: 10px;
+margin-left: 5px;
+color: rgb(194, 194, 194);
+
+}
+.end h3 {
+    margin-left: 33px;
+}
+.end p {
+    font-size: 15px;
+    color: lightslategray;
+
+
+
+}
+.end a {
+    text-decoration: none;
+    color: rgb(43, 44, 44)
+}
+.header h3 {
+    font-size: 32px;
+}
+.header p {
+    font-size: 20px;
+}
+.child img  {
+
+width: 350px;
+height: 220px;
+padding-left: 20px;
+padding-right: 20px;
+}
+.end h3 a:hover{
+color: rgb(231, 201, 124);
+transition-duration: 0.8s;
+
+}
+.end h3{
+    margin-top: 35px;
+
+}
+.end a{
+    color: lightslategray;
+}
+.end h3 a {
+    color: black;
+}
+.end p {
+
+color: rgb(75, 75, 75);
+}
